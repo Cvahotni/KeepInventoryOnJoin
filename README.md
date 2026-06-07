@@ -2,7 +2,7 @@
 A small plugin designed to give new players a chance.
 
 # Demonstration
-- Waiting for YouTube
+- https://www.youtube.com/watch?v=8pgS3YoT9jw
 
 # Installation
 - You can find the pre-built binary at https://github.com/Cvahotni/KeepInventoryOnJoin/releases
