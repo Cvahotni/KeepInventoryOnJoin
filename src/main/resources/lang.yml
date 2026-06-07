@@ -1,0 +1,4 @@
+prefix: "§6§lK.I.O.J §r§7| §r"
+keepInventoryMessage: "§fYour keep inventory expires in {0}"
+keepInventoryNotifyMessage: "§aYou now have keep inventory as a new player for {0}"
+keepInventoryExpiredMessage: "§cYour keep inventory has expired!"

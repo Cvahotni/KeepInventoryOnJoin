@@ -1,0 +1,6 @@
+name: KeepInventoryOnJoin
+version: '1.0-SNAPSHOT'
+main: me.spectral8420.keepInventoryOnJoin.KeepInventoryOnJoin
+api-version: '1.21'
+authors: [ ____Spectral____ ]
+description: A small plugin to give new players a chance.
